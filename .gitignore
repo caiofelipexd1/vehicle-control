@@ -1,0 +1,10 @@
+# dependencies
+/frontend/node_modules
+# production
+/frontend/build
+/backend/src/tmp
+
+/frontend/.env
+
+# docker volumes
+/docker/services/mariadb
